@@ -19,7 +19,7 @@ public class DemoCode {
 	
 	public void div()
 	{
-		System.out.println("This is my division method");
+		System.out.println("This is my division method.....");
 	}
 	
 	public static void main(String[] args) {
